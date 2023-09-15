@@ -3,6 +3,7 @@
 *cripto*
 *Article*
 *.env*
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
